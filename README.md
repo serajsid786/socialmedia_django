@@ -1,0 +1,1 @@
+# This socialmedia websites developed by technology using django framework
